@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 生日快乐
 
 <p>
@@ -106,3 +107,7 @@ npm run start
 2. 添加引导页
 3. 中文化
 4. 优化了一些细节
+=======
+# happy_birthday
+happy_birthday card
+>>>>>>> 909af50692080d3619bc17fd55556ba30aefb286
