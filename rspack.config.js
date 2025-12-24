@@ -10,7 +10,9 @@ module.exports = {
     }
   },
   output: {
-    clean: true
+    clean: true,
+    path: __dirname + '/dist',
+    publicPath: './'
   },
   builtins: {
     html: [{
